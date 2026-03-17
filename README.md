@@ -1,0 +1,1 @@
+This extended physics script adds the ability to simulate fuel starvation to an Assetto Corsa car. Requires VERSION=extended-2 in car.ini's HEADER section to work. This goes into the car's data directory. Includes variables that can be customized to get different fuel starvation behavior.
