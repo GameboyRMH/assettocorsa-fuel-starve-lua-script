@@ -1,5 +1,5 @@
 -- Variables for fuel starve simulation, can be customized to match a car.
--- Note: Requires VERSION=extended-2 in car.ini's HEADER section to work.
+-- Note: Requires VERSION=extended-2 in car.ini's HEADER section to work. This goes into a car's data directory.
 -- Basic settings --
 local highgmaxtime=2.6	--average time in seconds beyond high G threshold when fuel starvation will happen.
 local highgmaxtime_variance=0.15 --multiplier by which the high G time can be randomized in either direction
